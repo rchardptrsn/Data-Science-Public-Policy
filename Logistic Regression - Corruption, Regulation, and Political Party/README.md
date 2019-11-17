@@ -1,4 +1,4 @@
-### This analysis was conducted as part of a discussion board forum for MPPA 403 - Fundamentals of Public Administration at the Northwestern University School of Profession Studies, Master's in Public Policy and Administration
+### This analysis was conducted as part of a discussion board forum for MPPA 403 - Fundamentals of Public Administration at the Northwestern University School of Profession Studies, Master's in Public Policy and Administration.
 
 ### The analysis was presented as part of a short form response essay to a peer. The full text is as follows:
 To answer the question how heavy-handed government regulation should be, I decided to take it back to Herbert Storing's belief that "all interesting administrative questions are political questions" (Morgan, et al., 2010). From this perspective, the extent of government regulation is a question of party identity and politics. It is commonly understood that "Republicans want less government interference by regulation" and "Democrats want greater protection through regulation, " and I sought to examine this belief in the General Social Survey.
