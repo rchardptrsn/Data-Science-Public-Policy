@@ -1,0 +1,2 @@
+### This notebook is a crucial tool for public policy and social science analysis. 
+### It shows how to query the US Census API, as well as holds a .csv file for median income and gini index by county, which are very useful socioeconomic variables.
